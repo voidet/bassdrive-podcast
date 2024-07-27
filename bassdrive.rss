@@ -9,8 +9,8 @@
 		<managingEditor>prompt@nightgen.com (Prompt)</managingEditor>
 		<webMaster>prompt@nightgen.com (Prompt)</webMaster>
 		<copyright>2020-2021-04-01 19:37:37 +1000 Prompt</copyright>
-		<pubDate>Sat, 27 Jul 2024 02:01:27 +0000</pubDate>
-		<lastBuildDate>Sat, 27 Jul 2024 02:01:27 +0000</lastBuildDate>
+		<pubDate>Sat, 27 Jul 2024 08:01:27 +0000</pubDate>
+		<lastBuildDate>Sat, 27 Jul 2024 08:01:27 +0000</lastBuildDate>
 		<image>
 			<link>https://open.spotify.com/user/nightgen</link>
 			<url>https://bassdrive.jotlab.com/bassdrive.jpg</url>
@@ -27,34 +27,14 @@
 		<itunes:image href="https://bassdrive.jotlab.com/bassdrive.jpg" />
 		<itunes:category text="Music" />
 		<itunes:explicit>no</itunes:explicit><item>
-<title>20240504-100038-FJ_Default_Recordings_Show_LIVE</title>
-<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240504-100038-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
-</item>
-<item>
-<title>20240518-100047-FJ_Default_Recordings_Show_LIVE</title>
-<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240518-100047-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
-</item>
-<item>
 <title>20240406-100014-FJ_Default_Recordings_Show_Vinyl_Set_95_2000_LIVE</title>
 <pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240406-100014-FJ_Default_Recordings_Show_Vinyl_Set_95_2000_LIVE.mp3" type="mp3" />
 </item>
 <item>
-<title>20240615-100027-FJ_Default_Recordings_Show_LIVE</title>
+<title>20240504-100038-FJ_Default_Recordings_Show_LIVE</title>
 <pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240615-100027-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
-</item>
-<item>
-<title>20240629-100032-FJ_Default_Recordings_Show_LIVE</title>
-<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240629-100032-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
-</item>
-<item>
-<title>20240713-100042-FJ_Default_Recordings_Show_LIVE</title>
-<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240713-100042-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240504-100038-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
 </item>
 <item>
 <title>20240420-100013-FJ_Default_Recordings_Show_LIVE</title>
@@ -62,9 +42,29 @@
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240420-100013-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
 </item>
 <item>
+<title>20240518-100047-FJ_Default_Recordings_Show_LIVE</title>
+<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240518-100047-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
+</item>
+<item>
 <title>20240601-100027-FJ_Default_Recordings_Show_LIVE</title>
 <pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240601-100027-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
+</item>
+<item>
+<title>20240615-100027-FJ_Default_Recordings_Show_LIVE</title>
+<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240615-100027-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
+</item>
+<item>
+<title>20240713-100042-FJ_Default_Recordings_Show_LIVE</title>
+<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240713-100042-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
+</item>
+<item>
+<title>20240629-100032-FJ_Default_Recordings_Show_LIVE</title>
+<pubDate>Thu, 25 Jul 2024 09:12:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240629-100032-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
 </item>
 <item>
 <title>20240210-100012-FJ_Default_Recordings_Show_LIVE</title>
@@ -102,29 +102,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20240127-100029-FJ_Default_Recordings_Show_LIVE.mp3" type="mp3" />
 </item>
 <item>
-<title>20240326-171048-Power_Rinse_the_Automobile_LIVE_hosted_by_EvanTheScientist</title>
-<pubDate>Thu, 25 Jul 2024 09:05:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Rinse%20N%20Wash%20-%20Wadjit/20240326-171048-Power_Rinse_the_Automobile_LIVE_hosted_by_EvanTheScientist.mp3" type="mp3" />
-</item>
-<item>
 <title>20231227-220110-Rinse_N_Wash_Radio_Hosted_Live_with_Wadjit</title>
 <pubDate>Thu, 25 Jul 2024 09:05:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Rinse%20N%20Wash%20-%20Wadjit/20231227-220110-Rinse_N_Wash_Radio_Hosted_Live_with_Wadjit.mp3" type="mp3" />
 </item>
 <item>
-<title>20240114-080059-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
-<pubDate>Thu, 25 Jul 2024 09:03:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240114-080059-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
-</item>
-<item>
-<title>20240204-080026-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
-<pubDate>Thu, 25 Jul 2024 09:03:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240204-080026-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
-</item>
-<item>
-<title>20240121-080006-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
-<pubDate>Thu, 25 Jul 2024 09:03:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240121-080006-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
+<title>20240326-171048-Power_Rinse_the_Automobile_LIVE_hosted_by_EvanTheScientist</title>
+<pubDate>Thu, 25 Jul 2024 09:05:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Rinse%20N%20Wash%20-%20Wadjit/20240326-171048-Power_Rinse_the_Automobile_LIVE_hosted_by_EvanTheScientist.mp3" type="mp3" />
 </item>
 <item>
 <title>20240121-080006-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
@@ -142,6 +127,16 @@
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240114-080059-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
 </item>
 <item>
+<title>20240204-080026-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
+<pubDate>Thu, 25 Jul 2024 09:03:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240204-080026-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
+</item>
+<item>
+<title>20240114-080059-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
+<pubDate>Thu, 25 Jul 2024 09:03:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240114-080059-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
+</item>
+<item>
 <title>20240623-080052-Launch_In_Session_LIVE_frm_The_Launch_Pad_with_Dj_Handy</title>
 <pubDate>Thu, 25 Jul 2024 09:03:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240623-080052-Launch_In_Session_LIVE_frm_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
@@ -152,6 +147,11 @@
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240204-080026-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
 </item>
 <item>
+<title>20240121-080006-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
+<pubDate>Thu, 25 Jul 2024 09:03:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20240121-080006-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
+</item>
+<item>
 <title>20231210-080028-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
 <pubDate>Thu, 25 Jul 2024 09:02:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20231210-080028-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
@@ -160,6 +160,11 @@
 <title>20231210-080028-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy</title>
 <pubDate>Thu, 25 Jul 2024 09:02:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/20231210-080028-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
+</item>
+<item>
+<title>20231228-130247-Jay_Dubz_LIVE_sitting_in_for_Rodney_Rolls</title>
+<pubDate>Thu, 25 Jul 2024 08:56:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/On%20Ward%20Show%20-%20Jay%20Dubz/20231228-130247-Jay_Dubz_LIVE_sitting_in_for_Rodney_Rolls.mp3" type="mp3" />
 </item>
 <item>
 <title>20240113-080046-The_Onward_Show_LIVE_from_Shrewsbury_UK_with_Jay_Dubz</title>
@@ -167,9 +172,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/On%20Ward%20Show%20-%20Jay%20Dubz/20240113-080046-The_Onward_Show_LIVE_from_Shrewsbury_UK_with_Jay_Dubz.mp3" type="mp3" />
 </item>
 <item>
-<title>20231228-130247-Jay_Dubz_LIVE_sitting_in_for_Rodney_Rolls</title>
-<pubDate>Thu, 25 Jul 2024 08:56:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/On%20Ward%20Show%20-%20Jay%20Dubz/20231228-130247-Jay_Dubz_LIVE_sitting_in_for_Rodney_Rolls.mp3" type="mp3" />
+<title>20240703-070012-JamDown_Sessions_Hosted_By_JAMM_N</title>
+<pubDate>Thu, 25 Jul 2024 08:53:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/./Jamdown%20Sessions%20-%20Jamm:n/20240703-070012-JamDown_Sessions_Hosted_By_JAMM_N.mp3" type="mp3" />
 </item>
 <item>
 <title>20240524-070018-JamDown_Sessions_LIVE_hosted_by_Jamm_n</title>
@@ -182,11 +187,6 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/./Jamdown%20Sessions%20-%20Jamm:n/20240619-070012-JamDown_Sessions_LIVE_with_Jamm_n.mp3" type="mp3" />
 </item>
 <item>
-<title>20240703-070012-JamDown_Sessions_Hosted_By_JAMM_N</title>
-<pubDate>Thu, 25 Jul 2024 08:53:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/./Jamdown%20Sessions%20-%20Jamm:n/20240703-070012-JamDown_Sessions_Hosted_By_JAMM_N.mp3" type="mp3" />
-</item>
-<item>
 <title>20240516-234840-IMPRESSIONS_live_w_your_host_INDNETATION_Episode_660_come_say_hi_on_Discord</title>
 <pubDate>Thu, 25 Jul 2024 08:52:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/20240516-234840-IMPRESSIONS_live_w_your_host_INDNETATION_Episode_660_come_say_hi_on_Discord.mp3" type="mp3" />
@@ -197,19 +197,24 @@
 <enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/20240516-210139-IMPRESSIONS_live_w_your_host_INDNETATION_Episode_660_come_say_hi_on_Discord.mp3" type="mp3" />
 </item>
 <item>
-<title>20231221-215721-IMPRESSIONS_live_w_your_host_INDENTATIN_Episode_639</title>
-<pubDate>Thu, 25 Jul 2024 08:51:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/20231221-215721-IMPRESSIONS_live_w_your_host_INDENTATIN_Episode_639.mp3" type="mp3" />
-</item>
-<item>
 <title>20231221-224608-IMPRESSIONS_live_w_your_host_INDENTATIN_Episode_639</title>
 <pubDate>Thu, 25 Jul 2024 08:51:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/20231221-224608-IMPRESSIONS_live_w_your_host_INDENTATIN_Episode_639.mp3" type="mp3" />
 </item>
 <item>
+<title>20231221-215721-IMPRESSIONS_live_w_your_host_INDENTATIN_Episode_639</title>
+<pubDate>Thu, 25 Jul 2024 08:51:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/20231221-215721-IMPRESSIONS_live_w_your_host_INDENTATIN_Episode_639.mp3" type="mp3" />
+</item>
+<item>
 <title>20240329-001233-IMPRESSIONS_live_w_your_host_INDENTATION_Episode_653_come_say_hi_on_Discord</title>
 <pubDate>Thu, 25 Jul 2024 08:51:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/20240329-001233-IMPRESSIONS_live_w_your_host_INDENTATION_Episode_653_come_say_hi_on_Discord.mp3" type="mp3" />
+</item>
+<item>
+<title>20240716-200114-Get_Dipped_125_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:33:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240716-200114-Get_Dipped_125_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
 <title>20240625-200033-Get_Dipped_122_LIVE_w_Dip_Vertigo</title>
@@ -222,19 +227,29 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240702-200058-Get_Dipped_123_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
+<title>20240618-200133-Get_Dipped_121_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:33:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240618-200133-Get_Dipped_121_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
 <title>20240709-195949-Get_Dipped_124_LIVE_w_Dip_Vertigo</title>
 <pubDate>Thu, 25 Jul 2024 08:33:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240709-195949-Get_Dipped_124_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>20240716-200114-Get_Dipped_125_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:33:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240716-200114-Get_Dipped_125_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+<title>20240611-200022-Get_Dipped_120_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:32:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240611-200022-Get_Dipped_120_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>20240618-200133-Get_Dipped_121_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:33:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240618-200133-Get_Dipped_121_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+<title>20240514-200100-Get_Dipped_116_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:32:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240514-200100-Get_Dipped_116_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240604-200035-Get_Dipped_119_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:32:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240604-200035-Get_Dipped_119_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
 <title>20240528-200102-Get_Dipped_118_LIVE_w_Dip_Vertigo</title>
@@ -247,11 +262,6 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240521-201105-Get_Dipped_117_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>20240604-200035-Get_Dipped_119_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:32:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240604-200035-Get_Dipped_119_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
 <title>20240507-200637-Get_Dipped_115_LIVE_w_Dip_Vertigo</title>
 <pubDate>Thu, 25 Jul 2024 08:32:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240507-200637-Get_Dipped_115_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
@@ -262,54 +272,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240430-200125-Get_Dipped_114_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>20240514-200100-Get_Dipped_116_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:32:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240514-200100-Get_Dipped_116_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240611-200022-Get_Dipped_120_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:32:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240611-200022-Get_Dipped_120_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240213-200056-Get_Dipped_105_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240213-200056-Get_Dipped_105_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240423-200039-Get_Dipped_113_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240423-200039-Get_Dipped_113_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240409-200103-Get_Dipped_111_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240409-200103-Get_Dipped_111_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
 <title>20240416-200130-Get_Dipped_112_LIVE_w_Dip_Vertigo</title>
 <pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240416-200130-Get_Dipped_112_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240312-210147-Get_Dipped_109_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240312-210147-Get_Dipped_109_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240402-200308-Get_Dipped_110_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240402-200308-Get_Dipped_110_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240227-200157-Get_Dipped_107_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240227-200157-Get_Dipped_107_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240305-200104-Get_Dipped_108_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240305-200104-Get_Dipped_108_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
 <title>20240206-200156-Get_Dipped_104_LIVE_w_Dip_Vertigo</title>
@@ -317,14 +282,44 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240206-200156-Get_Dipped_104_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
+<title>20240402-200308-Get_Dipped_110_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240402-200308-Get_Dipped_110_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240423-200039-Get_Dipped_113_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240423-200039-Get_Dipped_113_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240305-200104-Get_Dipped_108_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240305-200104-Get_Dipped_108_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
 <title>20240220-200057-Get_Dipped_106_LIVE_w_Dip_Vertigo</title>
 <pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240220-200057-Get_Dipped_106_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>20240130-200159-Get_Dipped_103_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240130-200159-Get_Dipped_103_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+<title>20240227-200157-Get_Dipped_107_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240227-200157-Get_Dipped_107_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240312-210147-Get_Dipped_109_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240312-210147-Get_Dipped_109_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240409-200103-Get_Dipped_111_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240409-200103-Get_Dipped_111_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240213-200056-Get_Dipped_105_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:31:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240213-200056-Get_Dipped_105_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
 <title>20240123-200115-Get_Dipped_102_LIVE_w_Dip_Vertigo</title>
@@ -332,19 +327,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240123-200115-Get_Dipped_102_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>20231226-200214-Get_Dipped_LIVE_w_Dip_Vertigo</title>
+<title>20240116-211100-Get_Dipped_101_LIVE_w_Dip_Vertigo</title>
 <pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20231226-200214-Get_Dipped_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240102-200136-Get_Dipped_099_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240102-200136-Get_Dipped_099_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
-</item>
-<item>
-<title>20240109-200127-Get_Dipped_100_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240109-200127-Get_Dipped_100_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240116-211100-Get_Dipped_101_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
 <title>20240116-200105-Get_Dipped_101_LIVE_w_Dip_Vertigo</title>
@@ -352,9 +337,29 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240116-200105-Get_Dipped_101_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>20240116-211100-Get_Dipped_101_LIVE_w_Dip_Vertigo</title>
+<title>20240109-200127-Get_Dipped_100_LIVE_w_Dip_Vertigo</title>
 <pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240116-211100-Get_Dipped_101_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240109-200127-Get_Dipped_100_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240102-200136-Get_Dipped_099_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240102-200136-Get_Dipped_099_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20231226-200214-Get_Dipped_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20231226-200214-Get_Dipped_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20240130-200159-Get_Dipped_103_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:30:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20240130-200159-Get_Dipped_103_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20231212-200116-Get_Dipped_LIVE_w_Dip_Vertigo</title>
+<pubDate>Thu, 25 Jul 2024 08:29:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20231212-200116-Get_Dipped_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
 </item>
 <item>
 <title>20231219-200235-Get_Dipped_w_Dip_Vertigo_Live</title>
@@ -367,9 +372,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20231219-203043-Get_Dipped_w_Dip_Vertigo_Live.mp3" type="mp3" />
 </item>
 <item>
-<title>20231212-200116-Get_Dipped_LIVE_w_Dip_Vertigo</title>
-<pubDate>Thu, 25 Jul 2024 08:29:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20231212-200116-Get_Dipped_LIVE_w_Dip_Vertigo.mp3" type="mp3" />
+<title>20240623-160051-FuzedFunk_Classic_V_Special_and_More_Socials_fuzedfunk</title>
+<pubDate>Thu, 25 Jul 2024 08:24:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20240623-160051-FuzedFunk_Classic_V_Special_and_More_Socials_fuzedfunk.mp3" type="mp3" />
 </item>
 <item>
 <title>20240630-160002-FuzedFunk_Session_LIVE_Another_V_Chapter_and_More_Socials_fuzedfunk</title>
@@ -377,14 +382,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20240630-160002-FuzedFunk_Session_LIVE_Another_V_Chapter_and_More_Socials_fuzedfunk.mp3" type="mp3" />
 </item>
 <item>
-<title>20240623-160051-FuzedFunk_Classic_V_Special_and_More_Socials_fuzedfunk</title>
-<pubDate>Thu, 25 Jul 2024 08:24:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20240623-160051-FuzedFunk_Classic_V_Special_and_More_Socials_fuzedfunk.mp3" type="mp3" />
+<title>20231217-160058-FuzedFunk_Sessions_Holiday_Advent_Week_3_Socials_fuzedfunk</title>
+<pubDate>Thu, 25 Jul 2024 08:23:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20231217-160058-FuzedFunk_Sessions_Holiday_Advent_Week_3_Socials_fuzedfunk.mp3" type="mp3" />
 </item>
 <item>
-<title>20240609-160008-FuzedFunk_Session_LIVE_Brand_New_Dark_Core_Vibes_Socials_fuzedfunk</title>
+<title>20231231-160135-FuzedFunk_Session_New_Years_Advent_Session_socials</title>
 <pubDate>Thu, 25 Jul 2024 08:23:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20240609-160008-FuzedFunk_Session_LIVE_Brand_New_Dark_Core_Vibes_Socials_fuzedfunk.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20231231-160135-FuzedFunk_Session_New_Years_Advent_Session_socials.mp3" type="mp3" />
 </item>
 <item>
 <title>20240310-170026-FuzedFunk_Session_LIVE_Fats_Favorites_and_More_Socials_fuzedfunk</title>
@@ -397,14 +402,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20240602-160000-FuzedFunk_Session_LIVE_Arcade_Special_socials_fuzedfunk.mp3" type="mp3" />
 </item>
 <item>
-<title>20231231-160135-FuzedFunk_Session_New_Years_Advent_Session_socials</title>
+<title>20240609-160008-FuzedFunk_Session_LIVE_Brand_New_Dark_Core_Vibes_Socials_fuzedfunk</title>
 <pubDate>Thu, 25 Jul 2024 08:23:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20231231-160135-FuzedFunk_Session_New_Years_Advent_Session_socials.mp3" type="mp3" />
-</item>
-<item>
-<title>20231217-160058-FuzedFunk_Sessions_Holiday_Advent_Week_3_Socials_fuzedfunk</title>
-<pubDate>Thu, 25 Jul 2024 08:23:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20231217-160058-FuzedFunk_Sessions_Holiday_Advent_Week_3_Socials_fuzedfunk.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20240609-160008-FuzedFunk_Session_LIVE_Brand_New_Dark_Core_Vibes_Socials_fuzedfunk.mp3" type="mp3" />
 </item>
 <item>
 <title>20240616-155954-FuzedFunk_Session_LIVE_Fathers_Day_Special_Socials_fuzedfunk</title>
@@ -462,14 +462,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/The%20Infrasound%20Radio%20Show%20-%20Icon/20240401-150127-Infrasound_Radio_Show_LIVE.mp3" type="mp3" />
 </item>
 <item>
-<title>20240511-200607-Plates_from_the_Crypt_LIVE_w_iLL_Omen</title>
-<pubDate>Thu, 25 Jul 2024 07:59:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Plates%20from%20the%20Crypt%20-%20iLL%20Omen/20240511-200607-Plates_from_the_Crypt_LIVE_w_iLL_Omen.mp3" type="mp3" />
-</item>
-<item>
 <title>20240404-090054-Promo_ZO_LIVE_WuW_on_a_Thursday</title>
 <pubDate>Thu, 25 Jul 2024 07:59:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo/20240404-090054-Promo_ZO_LIVE_WuW_on_a_Thursday.mp3" type="mp3" />
+</item>
+<item>
+<title>20240511-200607-Plates_from_the_Crypt_LIVE_w_iLL_Omen</title>
+<pubDate>Thu, 25 Jul 2024 07:59:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Plates%20from%20the%20Crypt%20-%20iLL%20Omen/20240511-200607-Plates_from_the_Crypt_LIVE_w_iLL_Omen.mp3" type="mp3" />
 </item>
 <item>
 <title>20240320-001831-Atmospheric_Alignment_LIVE_w_SKANKA</title>
@@ -487,14 +487,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Launch%20in%20Session%20-%20Handy/20231210-080028-Launch_in_Session_LIVE_from_The_Launch_Pad_with_Dj_Handy.mp3" type="mp3" />
 </item>
 <item>
-<title>20231203-160226-FuzedFunk_Sessions_LIVE_Advent_Week_1</title>
-<pubDate>Thu, 25 Jul 2024 07:50:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20231203-160226-FuzedFunk_Sessions_LIVE_Advent_Week_1.mp3" type="mp3" />
-</item>
-<item>
 <title>20231205-200110-GET_DIPPED_w_Dip_Vertigo</title>
 <pubDate>Thu, 25 Jul 2024 07:50:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20231205-200110-GET_DIPPED_w_Dip_Vertigo.mp3" type="mp3" />
+</item>
+<item>
+<title>20231203-160226-FuzedFunk_Sessions_LIVE_Advent_Week_1</title>
+<pubDate>Thu, 25 Jul 2024 07:50:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/20231203-160226-FuzedFunk_Sessions_LIVE_Advent_Week_1.mp3" type="mp3" />
 </item>
 <item>
 <title>20231202-090014-FJ_Default_Recordings_Show_LIVE</title>
@@ -522,24 +522,24 @@
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/20231117-220204-Crucial_Xtra_Sessions_LIVE_Hosted_by_Spacefunk.mp3" type="mp3" />
 </item>
 <item>
-<title>20231104-090014-default_recordings_show</title>
-<pubDate>Thu, 25 Jul 2024 07:46:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20231104-090014-default_recordings_show.mp3" type="mp3" />
-</item>
-<item>
 <title>20231114-200415-Get_Dipped_with_Dip_Vertigo_facebook_com_dipvertigo</title>
 <pubDate>Thu, 25 Jul 2024 07:46:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Get%20Dipped%20-%20Dip%20Vertigo/20231114-200415-Get_Dipped_with_Dip_Vertigo_facebook_com_dipvertigo.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.17] Random Movement Radio - Random Movement</title>
-<pubDate>Wed, 24 Jul 2024 13:00:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Random%20Movement%20Radio%20-%20Random%20Movement/%5b2024.07.17%5d%20Random%20Movement%20Radio%20-%20Random%20Movement.mp3" type="mp3" />
+<title>20231104-090014-default_recordings_show</title>
+<pubDate>Thu, 25 Jul 2024 07:46:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/20231104-090014-default_recordings_show.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.17] Promo Zo on Bassdrive - Promo Zo</title>
 <pubDate>Wed, 24 Jul 2024 13:00:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo/%5b2024.07.17%5d%20Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.07.17] Random Movement Radio - Random Movement</title>
+<pubDate>Wed, 24 Jul 2024 13:00:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Random%20Movement%20Radio%20-%20Random%20Movement/%5b2024.07.17%5d%20Random%20Movement%20Radio%20-%20Random%20Movement.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.17] Power Rinse - EvanTheScientist</title>
@@ -572,14 +572,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/DrumObsession%20-%20Alegria/%5b2024.07.16%5d%20DrumObsession%20-%20Alegria.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.15]_Translation_Sound_-_Rogue_State</title>
-<pubDate>Mon, 22 Jul 2024 14:09:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Translation%20Sound%20-%20Rogue%20State/%5b2024.07.15%5d_Translation_Sound_-_Rogue_State.mp3" type="mp3" />
-</item>
-<item>
 <title>[2024.07.15]_The_Prague_Connection_-_Blofeld</title>
 <pubDate>Mon, 22 Jul 2024 14:09:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/The%20Prague%20Connection%20-%20Blofeld/%5b2024.07.15%5d_The_Prague_Connection_-_Blofeld.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.07.15]_Translation_Sound_-_Rogue_State</title>
+<pubDate>Mon, 22 Jul 2024 14:09:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Translation%20Sound%20-%20Rogue%20State/%5b2024.07.15%5d_Translation_Sound_-_Rogue_State.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.15]_The_Infrasound_Radio_Show_-_Icon</title>
@@ -597,14 +597,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/%5b2024.07.14%5d_The_Hive_-_Bumblebee.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.14]_Fuzed_Funk_-_Magin</title>
-<pubDate>Mon, 22 Jul 2024 14:06:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5b2024.07.14%5d_Fuzed_Funk_-_Magin.mp3" type="mp3" />
-</item>
-<item>
 <title>[2024.07.14]_The_High_Definition_Show_-_LJHigh</title>
 <pubDate>Mon, 22 Jul 2024 14:06:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20High%20Definition%20Show%20-%20LJ%20High/%5b2024.07.14%5d_The_High_Definition_Show_-_LJHigh.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.07.14]_Fuzed_Funk_-_Magin</title>
+<pubDate>Mon, 22 Jul 2024 14:06:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Fuzed%20Funk%20-%20Magin/%5b2024.07.14%5d_Fuzed_Funk_-_Magin.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.14]_Dirtbox_Radio_-_ODJ</title>
@@ -617,14 +617,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Schematic%20Sound%20-%20Schematic/%5b2024.07.13%5d_Schematic_Sound_-_Schematic.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.13]_Hangover_Hotline_-_Lamebrane</title>
-<pubDate>Mon, 22 Jul 2024 14:02:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5b2024.07.13%5d_Hangover_Hotline_-_Lamebrane.mp3" type="mp3" />
-</item>
-<item>
 <title>[2024.07.13]_Electronic_Warfare_-_Overfiend</title>
 <pubDate>Mon, 22 Jul 2024 14:02:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Electronic%20Warfare%20-%20The%20Overfiend/%5b2024.07.13%5d_Electronic_Warfare_-_Overfiend.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.07.13]_Hangover_Hotline_-_Lamebrane</title>
+<pubDate>Mon, 22 Jul 2024 14:02:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5b2024.07.13%5d_Hangover_Hotline_-_Lamebrane.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.13]_Crucial-X_Radio_-_Spacefunk</title>
@@ -657,14 +657,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Deep%20Soul%20Show%20-%20Donovan%20Badboy%20Smith/%5b2024.07.12%5d_Deep_Soul_Show_-_Donovan_Badboy_Smith.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.11]_The_Ebb_flow_Show_-_OPTX</title>
-<pubDate>Mon, 22 Jul 2024 13:53:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/The%20Ebb%20Flow%20Show%20-%20OPTX/%5b2024.07.11%5d_The_Ebb_flow_Show_-_OPTX.mp3" type="mp3" />
-</item>
-<item>
 <title>[2024.07.11]_Just_On_Track_-_Ashatack</title>
 <pubDate>Mon, 22 Jul 2024 13:53:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Just%20On%20Track%20-%20Ashatack/%5b2024.07.11%5d_Just_On_Track_-_Ashatack.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.07.11]_The_Ebb_flow_Show_-_OPTX</title>
+<pubDate>Mon, 22 Jul 2024 13:53:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/The%20Ebb%20Flow%20Show%20-%20OPTX/%5b2024.07.11%5d_The_Ebb_flow_Show_-_OPTX.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.11]_Impressions_-_Indentation</title>
@@ -732,19 +732,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20High%20Definition%20Show%20-%20LJ%20High/%5b2024.07.07%5d_The_High_Definition_Show_-_LJHigh.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.06]_Schematic_Sound_-_Schematic</title>
-<pubDate>Mon, 22 Jul 2024 13:33:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Schematic%20Sound%20-%20Schematic/%5b2024.07.06%5d_Schematic_Sound_-_Schematic.mp3" type="mp3" />
-</item>
-<item>
 <title>[2024.07.07]_Fuzed_Funk_-_Magin</title>
 <pubDate>Mon, 22 Jul 2024 13:33:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Electronic%20Warfare%20-%20The%20Overfiend/%5b2024.07.07%5d_Fuzed_Funk_-_Magin.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.06]_Electronic_Warfare_-_Overfiend</title>
-<pubDate>Mon, 22 Jul 2024 13:32:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Electronic%20Warfare%20-%20The%20Overfiend/%5b2024.07.06%5d_Electronic_Warfare_-_Overfiend.mp3" type="mp3" />
+<title>[2024.07.06]_Schematic_Sound_-_Schematic</title>
+<pubDate>Mon, 22 Jul 2024 13:33:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Schematic%20Sound%20-%20Schematic/%5b2024.07.06%5d_Schematic_Sound_-_Schematic.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.06]_Hangover_Hotline_-_Lamebrane</title>
@@ -752,9 +747,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5b2024.07.06%5d_Hangover_Hotline_-_Lamebrane.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.06]_Deceit_FM_-_Buzzy_D</title>
+<title>[2024.07.06]_Electronic_Warfare_-_Overfiend</title>
+<pubDate>Mon, 22 Jul 2024 13:32:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Electronic%20Warfare%20-%20The%20Overfiend/%5b2024.07.06%5d_Electronic_Warfare_-_Overfiend.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.07.06]_Crucial-X_Radio_-_Spacefunk</title>
 <pubDate>Mon, 22 Jul 2024 13:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Deceit%20FM%20-%20Buzzy%20D/%5b2024.07.06%5d_Deceit_FM_-_Buzzy_D.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Plates%20from%20the%20Crypt%20-%20iLL%20Omen/%5b2024.07.06%5d_Crucial-X_Radio_-_Spacefunk.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.06]_Default_Recordings_Show.mp3_-_</title>
@@ -762,9 +762,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/%5b2024.07.06%5d_Default_Recordings_Show.mp3_-_.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.06]_Crucial-X_Radio_-_Spacefunk</title>
+<title>[2024.07.06]_Deceit_FM_-_Buzzy_D</title>
 <pubDate>Mon, 22 Jul 2024 13:31:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Plates%20from%20the%20Crypt%20-%20iLL%20Omen/%5b2024.07.06%5d_Crucial-X_Radio_-_Spacefunk.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Deceit%20FM%20-%20Buzzy%20D/%5b2024.07.06%5d_Deceit_FM_-_Buzzy_D.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.05]_SixOneOh_-_Reflect</title>
@@ -807,14 +807,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Power%20Rinse%20-%20EvanTheScientist/%5b2024.07.03%5d_Power_Rinse_-_EvanTheScientist.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.02]_Subliminal_Messages_Radio_-_SP</title>
-<pubDate>Mon, 22 Jul 2024 13:25:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Subliminal%20Messages%20Radio%20-%20SP/%5b2024.07.02%5d_Subliminal_Messages_Radio_-_SP.mp3" type="mp3" />
-</item>
-<item>
 <title>[2024.07.02]_DrumObsession_-_Alegria</title>
 <pubDate>Mon, 22 Jul 2024 13:25:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/DrumObsession%20-%20Alegria/%5b2024.07.02%5d_DrumObsession_-_Alegria.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.07.02]_Subliminal_Messages_Radio_-_SP</title>
+<pubDate>Mon, 22 Jul 2024 13:25:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/Subliminal%20Messages%20Radio%20-%20SP/%5b2024.07.02%5d_Subliminal_Messages_Radio_-_SP.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.07.02]_XPOSURE_Records_Show_-_Ben_XO</title>
@@ -827,6 +827,11 @@
 <enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/XPOSURE%20Records%20Show%20-%20Ben%20XO/%5b2024.07.03%5d_Northern_Groove_Show_-_Dan_Soulsmith.mp3" type="mp3" />
 </item>
 <item>
+<title>[2024.07.01]_The_Prague_Connection_-_Blofeld</title>
+<pubDate>Mon, 22 Jul 2024 13:24:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/The%20Prague%20Connection%20-%20Blofeld/%5b2024.07.01%5d_The_Prague_Connection_-_Blofeld.mp3" type="mp3" />
+</item>
+<item>
 <title>[2024.07.01]_The_Infrasound_Radio_Show_-_Icon</title>
 <pubDate>Mon, 22 Jul 2024 13:24:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/The%20Infrasound%20Radio%20Show%20-%20Icon/%5b2024.07.01%5d_The_Infrasound_Radio_Show_-_Icon.mp3" type="mp3" />
@@ -837,9 +842,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Rinse%20N%20Wash%20-%20Wadjit/%5b2024.07.01%5d_Rinse_and_Wash_-_Wadjit.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.07.01]_The_Prague_Connection_-_Blofeld</title>
-<pubDate>Mon, 22 Jul 2024 13:24:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/The%20Prague%20Connection%20-%20Blofeld/%5b2024.07.01%5d_The_Prague_Connection_-_Blofeld.mp3" type="mp3" />
+<title>[2024.06.29]_Schematic_Sound_-_Schematic</title>
+<pubDate>Mon, 22 Jul 2024 13:23:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Schematic%20Sound%20-%20Schematic/%5b2024.06.29%5d_Schematic_Sound_-_Schematic.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.30]_Lab_Sessions_-_Impression</title>
@@ -847,9 +852,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/%5b2024.06.30%5d_Lab_Sessions_-_Impression.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.30]_The_High_Definition_Show_-_LJHigh</title>
+<title>[2024.06.30]_The_Hive_-_Bumblebee</title>
 <pubDate>Mon, 22 Jul 2024 13:23:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20High%20Definition%20Show%20-%20LJ%20High/%5b2024.06.30%5d_The_High_Definition_Show_-_LJHigh.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/%5b2024.06.30%5d_The_Hive_-_Bumblebee.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.29]_Hangover_Hotline_-_Lamebrane</title>
@@ -857,29 +862,14 @@
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5b2024.06.29%5d_Hangover_Hotline_-_Lamebrane.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.29]_Schematic_Sound_-_Schematic</title>
-<pubDate>Mon, 22 Jul 2024 13:23:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Schematic%20Sound%20-%20Schematic/%5b2024.06.29%5d_Schematic_Sound_-_Schematic.mp3" type="mp3" />
-</item>
-<item>
 <title>[2024.06.30]_Dirtbox_Radio_-_ODJ</title>
 <pubDate>Mon, 22 Jul 2024 13:23:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Dirtbox%20Radio%20-%20ODJ/%5b2024.06.30%5d_Dirtbox_Radio_-_ODJ.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.30]_The_Hive_-_Bumblebee</title>
+<title>[2024.06.30]_The_High_Definition_Show_-_LJHigh</title>
 <pubDate>Mon, 22 Jul 2024 13:23:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Hive%20-%20Bumblebee/%5b2024.06.30%5d_The_Hive_-_Bumblebee.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.28]_Plates_from_the_Crypt_-_iLL_Omen</title>
-<pubDate>Mon, 22 Jul 2024 13:22:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Plates%20from%20the%20Crypt%20-%20iLL%20Omen/%5b2024.06.28%5d_Plates_from_the_Crypt_-_iLL_Omen.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.29]_Electronic_Warfare_-_Overfiend</title>
-<pubDate>Mon, 22 Jul 2024 13:22:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Electronic%20Warfare%20-%20The%20Overfiend/%5b2024.06.29%5d_Electronic_Warfare_-_Overfiend.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20High%20Definition%20Show%20-%20LJ%20High/%5b2024.06.30%5d_The_High_Definition_Show_-_LJHigh.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.28]_Launch_in_Session_-_Handy</title>
@@ -887,9 +877,24 @@
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Launch%20in%20Session%20-%20Handy/%5b2024.06.28%5d_Launch_in_Session_-_Handy.mp3" type="mp3" />
 </item>
 <item>
+<title>[2024.06.29]_Crucial-X_Radio_-_Spacefunk</title>
+<pubDate>Mon, 22 Jul 2024 13:22:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/%5b2024.06.29%5d_Crucial-X_Radio_-_Spacefunk.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.29]_Electronic_Warfare_-_Overfiend</title>
+<pubDate>Mon, 22 Jul 2024 13:22:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Electronic%20Warfare%20-%20The%20Overfiend/%5b2024.06.29%5d_Electronic_Warfare_-_Overfiend.mp3" type="mp3" />
+</item>
+<item>
 <title>[2024.06.28]_Deep_Soul_Show_-_Donovan_Badboy_Smith</title>
 <pubDate>Mon, 22 Jul 2024 13:22:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Deep%20Soul%20Show%20-%20Donovan%20Badboy%20Smith/%5b2024.06.28%5d_Deep_Soul_Show_-_Donovan_Badboy_Smith.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.28]_Plates_from_the_Crypt_-_iLL_Omen</title>
+<pubDate>Mon, 22 Jul 2024 13:22:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/5%20-%20Friday/Plates%20from%20the%20Crypt%20-%20iLL%20Omen/%5b2024.06.28%5d_Plates_from_the_Crypt_-_iLL_Omen.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.27]_Trainspotting_Sessions_-_Amnesty</title>
@@ -897,24 +902,9 @@
 <enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Trainspotting%20Sessions%20-%20DJ%20Amnesty/%5b2024.06.27%5d_Trainspotting_Sessions_-_Amnesty.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.29]_Crucial-X_Radio_-_Spacefunk</title>
-<pubDate>Mon, 22 Jul 2024 13:22:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Crucial-X%20Radio%20-%20Spacefunk/%5b2024.06.29%5d_Crucial-X_Radio_-_Spacefunk.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.27]_The_Ebb_flow_Show_-_OPTX</title>
+<title>[2024.06.27]_Funked_Up_Radio_-_DFunk</title>
 <pubDate>Mon, 22 Jul 2024 13:21:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/The%20Ebb%20Flow%20Show%20-%20OPTX/%5b2024.06.27%5d_The_Ebb_flow_Show_-_OPTX.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.26]_Power_Rinse_-_EvanTheScientist</title>
-<pubDate>Mon, 22 Jul 2024 13:21:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Power%20Rinse%20-%20EvanTheScientist/%5b2024.06.26%5d_Power_Rinse_-_EvanTheScientist.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.27]_Impressions_-_Indentation</title>
-<pubDate>Mon, 22 Jul 2024 13:21:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/%5b2024.06.27%5d_Impressions_-_Indentation.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Funked%20Up%20Radio%20-%20DFunk/%5b2024.06.27%5d_Funked_Up_Radio_-_DFunk.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.26]_Promo_Zo_on_Bassdrive_-_Promo_Zo</title>
@@ -922,29 +912,19 @@
 <enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Promo%20Zo%20on%20Bassdrive%20-%20Promo%20Zo/%5b2024.06.26%5d_Promo_Zo_on_Bassdrive_-_Promo_Zo.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.27]_Funked_Up_Radio_-_DFunk</title>
+<title>[2024.06.27]_The_Ebb_flow_Show_-_OPTX</title>
 <pubDate>Mon, 22 Jul 2024 13:21:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Funked%20Up%20Radio%20-%20DFunk/%5b2024.06.27%5d_Funked_Up_Radio_-_DFunk.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/The%20Ebb%20Flow%20Show%20-%20OPTX/%5b2024.06.27%5d_The_Ebb_flow_Show_-_OPTX.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.25]_In_the_Mix_with_Colony_-_Colony</title>
-<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/In%20the%20Mix%20with%20Colony%20-%20Colony/%5b2024.06.25%5d_In_the_Mix_with_Colony_-_Colony.mp3" type="mp3" />
+<title>[2024.06.27]_Impressions_-_Indentation</title>
+<pubDate>Mon, 22 Jul 2024 13:21:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/4%20-%20Thursday/Impressions%20-%20Indentation/%5b2024.06.27%5d_Impressions_-_Indentation.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.25]_DrumObsession_-_Alegria</title>
-<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/DrumObsession%20-%20Alegria/%5b2024.06.25%5d_DrumObsession_-_Alegria.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.24]_The_Prague_Connection_-_Blofeld</title>
-<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/The%20Prague%20Connection%20-%20Blofeld/%5b2024.06.24%5d_The_Prague_Connection_-_Blofeld.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.25]_XPOSURE_Records_Show_-_Ben_XO</title>
-<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/XPOSURE%20Records%20Show%20-%20Ben%20XO/%5b2024.06.25%5d_XPOSURE_Records_Show_-_Ben_XO.mp3" type="mp3" />
+<title>[2024.06.26]_Power_Rinse_-_EvanTheScientist</title>
+<pubDate>Mon, 22 Jul 2024 13:21:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Power%20Rinse%20-%20EvanTheScientist/%5b2024.06.26%5d_Power_Rinse_-_EvanTheScientist.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.26]_Northern_Groove_Show_-_Dan_Soulsmith</title>
@@ -952,14 +932,29 @@
 <enclosure url="https://archives.bassdrivearchive.com/3%20-%20Wednesday/Northern%20Groove%20Show%20-%20Dan%20Soulsmith/%5b2024.06.26%5d_Northern_Groove_Show_-_Dan_Soulsmith.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.24]_Subfactory_Show_-_Spim</title>
-<pubDate>Mon, 22 Jul 2024 13:19:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Subfactory%20Show%20-%20DJ%20Spim/%5b2024.06.24%5d_Subfactory_Show_-_Spim.mp3" type="mp3" />
+<title>[2024.06.25]_In_the_Mix_with_Colony_-_Colony</title>
+<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/In%20the%20Mix%20with%20Colony%20-%20Colony/%5b2024.06.25%5d_In_the_Mix_with_Colony_-_Colony.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.23]_The_High_Definition_Show_-_LJHigh</title>
+<title>[2024.06.24]_The_Prague_Connection_-_Blofeld</title>
+<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/The%20Prague%20Connection%20-%20Blofeld/%5b2024.06.24%5d_The_Prague_Connection_-_Blofeld.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.25]_DrumObsession_-_Alegria</title>
+<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/DrumObsession%20-%20Alegria/%5b2024.06.25%5d_DrumObsession_-_Alegria.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.25]_XPOSURE_Records_Show_-_Ben_XO</title>
+<pubDate>Mon, 22 Jul 2024 13:20:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/2%20-%20Tuesday/XPOSURE%20Records%20Show%20-%20Ben%20XO/%5b2024.06.25%5d_XPOSURE_Records_Show_-_Ben_XO.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.24]_Rinse_and_Wash_-_Wadjit</title>
 <pubDate>Mon, 22 Jul 2024 13:19:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20High%20Definition%20Show%20-%20LJ%20High/%5b2024.06.23%5d_The_High_Definition_Show_-_LJHigh.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Rinse%20N%20Wash%20-%20Wadjit/%5b2024.06.24%5d_Rinse_and_Wash_-_Wadjit.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.23]_The_Hive_-_Bumblebee</title>
@@ -972,9 +967,34 @@
 <enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20Warm%20Ears%20Show/%5b2024.06.23%5d_The_Warm_Ears_Show_-_Bassdrive.mp3" type="mp3" />
 </item>
 <item>
-<title>[2024.06.24]_Rinse_and_Wash_-_Wadjit</title>
+<title>[2024.06.23]_The_High_Definition_Show_-_LJHigh</title>
 <pubDate>Mon, 22 Jul 2024 13:19:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Rinse%20N%20Wash%20-%20Wadjit/%5b2024.06.24%5d_Rinse_and_Wash_-_Wadjit.mp3" type="mp3" />
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/The%20High%20Definition%20Show%20-%20LJ%20High/%5b2024.06.23%5d_The_High_Definition_Show_-_LJHigh.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.24]_Subfactory_Show_-_Spim</title>
+<pubDate>Mon, 22 Jul 2024 13:19:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/1%20-%20Monday/Subfactory%20Show%20-%20DJ%20Spim/%5b2024.06.24%5d_Subfactory_Show_-_Spim.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.22]_Default_Recordings_Show.mp3_-_</title>
+<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/%5b2024.06.22%5d_Default_Recordings_Show.mp3_-_.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.23]_Dirtbox_Radio_-_ODJ</title>
+<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Dirtbox%20Radio%20-%20ODJ/%5b2024.06.23%5d_Dirtbox_Radio_-_ODJ.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.23]_Lab_Sessions_-_Impression</title>
+<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/%5b2024.06.23%5d_Lab_Sessions_-_Impression.mp3" type="mp3" />
+</item>
+<item>
+<title>[2024.06.22]_Hangover_Hotline_-_Lamebrane</title>
+<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
+<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5b2024.06.22%5d_Hangover_Hotline_-_Lamebrane.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.22]_Schematic_Sound_-_Schematic</title>
@@ -985,26 +1005,6 @@
 <title>[2024.06.22]_Electronic_Warfare_-_Overfiend</title>
 <pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
 <enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Electronic%20Warfare%20-%20The%20Overfiend/%5b2024.06.22%5d_Electronic_Warfare_-_Overfiend.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.22]_Hangover_Hotline_-_Lamebrane</title>
-<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Hangover%20Hotline%20-%20Lamebrane/%5b2024.06.22%5d_Hangover_Hotline_-_Lamebrane.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.23]_Dirtbox_Radio_-_ODJ</title>
-<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Dirtbox%20Radio%20-%20ODJ/%5b2024.06.23%5d_Dirtbox_Radio_-_ODJ.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.22]_Default_Recordings_Show.mp3_-_</title>
-<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/6%20-%20Saturday/Default%20Recordings%20Show%20-%20West/%5b2024.06.22%5d_Default_Recordings_Show.mp3_-_.mp3" type="mp3" />
-</item>
-<item>
-<title>[2024.06.23]_Lab_Sessions_-_Impression</title>
-<pubDate>Mon, 22 Jul 2024 13:18:00 +0000</pubDate>
-<enclosure url="https://archives.bassdrivearchive.com/7%20-%20Sunday/Lab%20Sessions%20-%20Impression/%5b2024.06.23%5d_Lab_Sessions_-_Impression.mp3" type="mp3" />
 </item>
 <item>
 <title>[2024.06.21]_Plates_from_the_Crypt_-_iLL_Omen</title>
